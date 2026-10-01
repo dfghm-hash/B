@@ -1,0 +1,6 @@
+{
+  "name": "HyperCipher",
+  "description": "High-performance streaming parallel file encryption and decryption engine for large files (5GB+).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
